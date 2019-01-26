@@ -1,5 +1,30 @@
 # 1. United Kingdom of Great Brittain and Northern Ireland
 
+# 5. Australia
+* location: on australia (continent) - south hemisphere
+* capital: Cannbera
+* other cities: 
+	* Sydney
+	* Melbourne
+* political system: parlament (Queen Elizabeth II)
+* west and center desert east forests
+* flying doctors
+* animals: kangaroo, koala, platypus, emu => Emu war (1932)
+* sports:
+	* Australian football
+	* cricket
+	* windsurfing
+* monuments:
+	* Cannbera
+		* Perliament house
+		* War memorial
+		* Gibraltar peak
+	* Sydney
+		* Opera House
+		* Harbour bridge
+		* Bondi beach
+* AC/DC band was formed in Australia
+
 # 7. Canada
 * location: northern part of North America
 * second largest country by total area, fourth by land area
@@ -32,28 +57,3 @@
 * famous Canadians:
     * first Canadian to walk in space: Chris Hadfield
     * singer Justin Bieber
-
-# ?. Australia
-* location: on australia (continent) - south hemisphere
-* capital: Cannbera
-* other cities: 
-	* Sydney
-	* Melbourne
-* political system: parlament (Queen Elizabeth II)
-* west and center desert east forests
-* flying doctors
-* animals: kangaroo, koala, platypus, emu => Emu war (1932)
-* sports:
-	* Australian football
-	* cricket
-	* windsurfing
-* monuments:
-	* Cannbera
-		* Perliament house
-		* War memorial
-		* Gibraltar peak
-	* Sydney
-		* Opera House
-		* Harbour bridge
-		* Bondi beach
-* AC/DC band was formed in Australia
