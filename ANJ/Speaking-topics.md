@@ -32,3 +32,28 @@
 * famous Canadians:
     * first Canadian to walk in space: Chris Hadfield
     * singer Justin Bieber
+
+# ?. Australia
+* location: on australia (continent) - south hemisphere
+* capital: Cannbera
+* other cities: 
+	* Sydney
+	* Melbourne
+* political system: parlament (Queen Elizabeth II)
+* west and center desert east forests
+* flying doctors
+* animals: kangaroo, koala, platypus, emu => Emu war (1932)
+* sports:
+	* Australian football
+	* cricket
+	* windsurfing
+* monuments:
+	* Cannbera
+		* Perliament house
+		* War memorial
+		* Gibraltar peak
+	* Sydney
+		* Opera House
+		* Harbour bridge
+		* Bondi beach
+* AC/DC band was formed in Australia
